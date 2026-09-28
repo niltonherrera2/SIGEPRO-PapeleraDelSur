@@ -12,6 +12,10 @@ Empresa: **Papelera del Sur S.A.**
 | Nilton Ángel Herrera Tarazona | Menús e inicio de sesión (`sistema.py`) |
 | Jhonatan Miguel Lalangui Alama | Documentación y pruebas (`README.md`, `capturas/`) |
 
+## Gestión del proyecto
+
+- Tablero de Trello: https://trello.com/b/03DTboZM
+
 ## Descripción
 
 Aplicación de consola en Python que permite:
